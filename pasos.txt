@@ -1,0 +1,12 @@
+#Plan:
+    Crear carpeta
+    Clonar 
+    Modificar
+    Comitear
+    Pullear
+    Pushear
+
+//Crear carpeta 
+git clone http://tfs-ms.baufest.com/tfs/Baufest/_git/PEI%20full-stack%20developer
+
+Entrar en 
