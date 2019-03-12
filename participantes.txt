@@ -1,7 +1,20 @@
 Por favor, agrega tu nombre abajo:
+<<<<<<< HEAD
 
 
+=======
+Facu
+Indira
+Gabriel Salvatore
+Carlos Fara
+Julian y Juan
+Pablo y Fernando de nuevo
+Julian Saavedra
+FernandoTilve
+Brisa y Cesar
+Somos participantes del PEI 2019/03
+>>>>>>> f13e8a14c4e5179e6936033020d67306d44f3303
 
 Somos participantes del PEI 2019/03
 
-Brisa y Cesar
+
